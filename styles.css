@@ -1,0 +1,9 @@
+
+#main-container {
+    background-image: url("images/drums.jpg");
+    color: rgb(0, 153, 255);
+    margin: 20px auto;
+    width: 927px;
+    height: 567px;
+    
+}
